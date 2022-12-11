@@ -10,7 +10,7 @@ About Me
 
 Feel free to check out my Notion page below for dashboards related to some of my projects here!
 
-###Socals
+### Socials
 
 - [LinkedIn](linkedin.com/in/larry-cheng42/)
 - [Notion](lardcheng.notion.site/lardcheng/Project-Portfolio-c60349b663a0423fb71461fb8c4cbea7)
